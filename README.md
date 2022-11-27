@@ -5,7 +5,7 @@
 3. Explosion effect on destruction of cars.
 4. Two different animated cars for enemy.
 5. Four different player's cars, which you can choose by key R.
-6. A army tank that shoots into the scene.
+6. A tank that shoots into the scene.
 7. Different color themes, which you can change by pressing key L.
 8. Adding textures to the scene.
 9. Background music is also included, which you can turn it On or Off by key M.
